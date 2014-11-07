@@ -1,11 +1,6 @@
 # Meteor London
 
--  Meteor day
-- 
-
-
-
-
+A shiney new slide deck for meteor-london on meteor-day
 
 
 ## Getting started
@@ -26,4 +21,3 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
-
